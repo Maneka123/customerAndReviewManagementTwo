@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAADProjectThree</string>
+    <string name="inputOne">First Name</string>
+    <string name="inputTwo">Last Name</string>
+    <string name="inputThree">Contact Number</string>
+    <string name="inputFour">UserName</string>
+    <string name="inputFive">Email</string>
+</resources>

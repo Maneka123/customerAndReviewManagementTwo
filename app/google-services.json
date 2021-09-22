@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799122973610",
+    "project_id": "maadprojectthree",
+    "storage_bucket": "maadprojectthree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799122973610:android:deff7d27ff8a6fb92741d3",
+        "android_client_info": {
+          "package_name": "com.example.maadprojectthree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799122973610-jb35c1cjbproee3kvl7bc6a6t45mb67e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM1njYqIEnqhta6piPYltNmUt7-0ax0NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799122973610-jb35c1cjbproee3kvl7bc6a6t45mb67e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
